@@ -1,0 +1,94 @@
+********************************************************************************Completed******************
+Q1.Array Rotation
+Q2.Given an array A and a number k find all the pairs in the array whose sum is k
+Q3.Common elements in an array
+Q4.Leaders in an array
+Q5.Find the missing number in an array[XOR]
+Q6.Find the maximum consecutive 1’s from an integer array
+Q7.Find second smallest element in an array without sorting
+Q8.Given a array of numbers, write a program to print count of each number present in the array.
+Q9.Program to to find the maximum repeated element in an array
+Q10.Maximum difference between two elements such that larger element appears after the smaller number
+Q11.Given an array of positive integers. All numbers occur even number of times except one number which occurs odd number of times.[XOR]
+Q12.Find the median of an sorted array
+Q13.Find the key element in an sorted and rotated array
+Q14.Search an element in array without using linear search technique
+Q15.Circular sorted array, get the largest element
+Q16.Find the kth largest element in an unsorted array
+Q17.Given an array of both positive and negative integers, find the two numbers whose product is the maximum
+Q18.Find the greatest product using 3 numbers in an integer array without sorting
+Q19.Write a code to detect the first number having duplicate in Array.
+
+
+Q1.Check whether string is Anagram of another
+Q2.Convert string into integer using ascii
+Q3.Reversing words in a sentence without library functions
+Q4.Find duplicate characters in a string
+Q5.Print the count of each character in a string
+Q6.Find the most occurred character in a string
+Q7.Print middle character of a string. If middle value has even then print 2 characters : Eg: Amazon -->print az
+
+********************************************************************************To be Completed************
+Q29.Merge two arrays.
+Q20.Merge two dimesional Array
+Q15.Find the median of an two sorted arrays
+Q22.Given two arrays and you have to combine them and print the median
+
+Q2.Grouping positive numbers, zero, and negative numbers together
+
+Q3.Problem Solving: Find the first occurance of a given number from the series which has the difference between the adjacent elements as 1. 
+   For Example {1, 0, -1,-2,-1,0,1,2,3} Note: Do not use Linear Search
+
+Q23.You are given an array containing both +ve and -ve integers & required to find the contiguous sub array with the largest sum.
+Eg: if i/p is(-10,2,3,-2,0,5,-15)
+sum is 8-
+
+Consider array1 ={{10, 15}, {30, 50}}
+array2 ={{20,40}, {5, 10}}
+Merged array should be sandwitched (array 1 should be sandwitched with array 2) 
+also while merging array if value range is less than the previously added value then that value should not be added to the merged array
+Output should be {10, 20, 30, 40, 50} --> 15, 5 and 10 should not be added
+
+Q18.Write a code to for an input arithmetic equation to detect the braces and return the output in Binary 
+i.e. for each opened braces there would be one closed braces.
+2+((3-1)/8 ----- Output = False
+2+((3-1)/8) -------- Output = True
+
+Q4.Test Data Generation
+Write the test data for the function: int getSmallestIntegerPosition(int[] A)
+This method accepts as input integer array that is already sorted and rotated "n" number of items where n is less than the size of the array
+For Example: The test data can be {4,5,6,1} This was derived from {1, 4, 5,6} after sorting and rotating the array for 3 times
+And output of the function returns the index of integer that has the smallest value-done
+Eg: {4,5,6,1}: the smallest value is 1 and its index is 3
+Note: This method searches for the element and derives the position with an order of O(log(n))
+
+
+
+
+
+Q23.Find the sum of string using string builder(30&50&jssjss 18 1wwwkwkwk 10 1,1)
+Q7.Make a string palindrome by removing a character.
+Q9.Run Length encoding
+Q11.Longest common subsequence of a substring
+Q12.Find the majority element.
+Q18.Find the odd and even numbers using bitwise operators.
+Q19.Print a pyramid
+Q20.Sort using quicksort
+Q24.String reversal without changing the special character
+Q26.Print the different combinations of a string which are palindrome
+Q30.Check if characters of a given string can be rearranged to form a palindrome
+
+Q10.write test data for a function which prints common characters of two Strings... ex: night , hot.. output : ht
+
+Q24.s1=AMAZON&#034; s2=;ZONAMA&#034; , how will you check if any combination of characters in s2 will give string s1?
+
+Q21.Find the nth consecutive occurence of a character in a given string. 
+For example for the given input string of "Amazon is a great company as it haas AtoooZzz" and the output should be “o”:
+
+Q20.S1: AMAZ???A??AZON??  S2: AMAZON
+O/p should be AMAZONAAAMAZON..
+
+Q22.Reverse the linked list
+Q26.Suppose all digits of a number are represented by nodes in a linked list, how will you write a program to add lists ?
+Q22.Singleton
+
